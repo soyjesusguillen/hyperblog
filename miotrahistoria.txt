@@ -5,3 +5,4 @@ Empezare por crear este archivo, agregarlo y hacer commit...
 
 ahora empiezo a hacer otros cambios agregando esta linea 
 y esta otra!
+lo borré y lo restauré con checkout
