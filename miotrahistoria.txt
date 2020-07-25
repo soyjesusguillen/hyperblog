@@ -1,0 +1,7 @@
+Esta es mi otra historia...
+va a servir para probar el comando git rm.
+
+Empezare por crear este archivo, agregarlo y hacer commit...
+
+ahora empiezo a hacer otros cambios agregando esta linea 
+y esta otra!
